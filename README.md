@@ -19,3 +19,5 @@ If on an HPC, the above can be run by submitting one of the following jobs:\
 `pegx_ally`: Extract articles only from the publications CNN, Reuters and The New York Times, for all years and train/evaluate using Pegasus-X\
 `pegx_ally2019`: Extract articles only from the publications CNN, Reuters and The New York Times, for all years and train/evaluate using Pegasus-X
 
+## Paper
+The paper with all the analyses can be found at https://sled.eecs.umich.edu/media/eecs595_fa22/5_Rao_Bhatia.pdf
